@@ -1,0 +1,5 @@
+D:\Home\CS\Solar\CSchedule\CSchedule\bin\Debug\CSchedule.exe
+D:\Home\CS\Solar\CSchedule\CSchedule\bin\Debug\CSchedule.pdb
+D:\Home\CS\Solar\CSchedule\CSchedule\obj\Debug\CSchedule.csprojAssemblyReference.cache
+D:\Home\CS\Solar\CSchedule\CSchedule\obj\Debug\CSchedule.exe
+D:\Home\CS\Solar\CSchedule\CSchedule\obj\Debug\CSchedule.pdb
